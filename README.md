@@ -1,4 +1,4 @@
-grunt-hatenaBlog-theme
+hatenablog-theme-scaffold
 ======================
 
-Grunt to create original themes for hatena blog.
+Scaffold environments for create hatenablog theme.
